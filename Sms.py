@@ -4,8 +4,8 @@ from getpass import getpass
 import sys
 import os
 
-username = "9533267799"
-passwd = "4444"
+username = "XXXXXXXXXX"
+passwd = "XXXXXXXXXX"
 message = sys.argv[1]
 number = sys.argv[2]
 message = "+".join(message.split(' '))
